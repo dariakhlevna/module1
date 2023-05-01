@@ -1,0 +1,8 @@
+:root{
+    --text_color:pink;
+    --text_size:30px;
+}
+text{
+    color: var(--text_color);
+    font-size: var(--text_size);
+}
